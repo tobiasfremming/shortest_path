@@ -243,7 +243,7 @@ imagerect = image.get_rect()
 # width = image.get_width() 
 # height = image.get_height() 
 width = 1000
-height = 1000   
+height = 600   
 
 max = Point(width-1, height-1) 
 
