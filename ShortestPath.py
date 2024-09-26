@@ -293,7 +293,7 @@ clickedPositions = [] #definerer liste over punkter som skal bestemmes
 
 while running: #hovedloopen
     
-    print("HEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+    
    
     pg.time.wait(10) #delay
   
